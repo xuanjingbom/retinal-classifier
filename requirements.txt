@@ -2,3 +2,4 @@ streamlit
 ultralytics
 Pillow
 grad-cam
+opencv-python-headless
